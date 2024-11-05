@@ -1,0 +1,16 @@
+
+Pour commencer, creer un repository dans github sur le web, 
+nommé "git-begins" par exemple, puis copier l'url de celui-ci.
+
+Ensuite: 
+
+1) cd git-begins
+
+2) git clone https://github.com/cesar-bousson/git-begins.git
+
+3) cd get-begins (pour aller dans le dossier)
+
+4) touch "nomdufichier.txt" (pour creer le fichier texte)
+
+5) nano "nomdufichiertexte" (pour ecrire dans le fichier)
+
